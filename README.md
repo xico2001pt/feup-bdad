@@ -1,4 +1,4 @@
-# FEUP - CGRA
+# FEUP - BDAD
 
 ## Bases de Dados | MIEIC | 2º Ano | 2º Semestre
 

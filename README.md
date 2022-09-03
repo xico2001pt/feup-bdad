@@ -10,7 +10,7 @@ Este repositório contém:
 - Slides
 - Exercícios Resolvidos
 - Projeto
-   - [Rede de Centros de Vacinação](https://github.com/xico2001pt/bdad-vacinas)
+   - [Rede de Centros de Vacinação](https://github.com/adr1an0s0ar3s/bdad-proj-20-21)
 - Exames Resolvidos
 
 ## Classificações
